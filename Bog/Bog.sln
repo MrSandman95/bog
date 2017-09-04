@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bog", "Bog\Bog.csproj", "{228C3A71-D6AB-498D-BB6C-2FC739ED9AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{228C3A71-D6AB-498D-BB6C-2FC739ED9AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228C3A71-D6AB-498D-BB6C-2FC739ED9AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228C3A71-D6AB-498D-BB6C-2FC739ED9AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228C3A71-D6AB-498D-BB6C-2FC739ED9AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
